@@ -17,7 +17,7 @@ Please report issues in the [issue tracker](https://github.com/fedora-iot/iot-di
 
 ## Contributing
 
-- [How to get involved](https://silverblue.fedoraproject.org/contribute)
+- [How to get involved](https://fedoraproject.org/iot/community/)
 - [rpm-ostree manifests used to build Fedora IoT](https://pagure.io/fedora-iot/ostree)
 - [Source for the documentation](https://github.com/fedora-iot/iot-docs)
 
