@@ -15,6 +15,8 @@ See the [Fedora IoT documentation](https://docs.fedoraproject.org/en-US/iot/).
 
 Please report issues in the [issue tracker](https://github.com/fedora-iot/iot-distro/issues).
 
+We also have a [RHBZ Tracker bug](https://bugzilla.redhat.com/show_bug.cgi?id=1269538) with an alias of IoT for any general Fedora bugs that affect Fedora IoT. You can put IoT in the blocker field of any bug to add it to that tracker so we're aware of issues in general Fedora packages such as the kernel.
+
 ## Contributing
 
 - [How to get involved](https://fedoraproject.org/iot/community/)
