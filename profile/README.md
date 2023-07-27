@@ -9,7 +9,7 @@ See the [Fedora IoT documentation](https://docs.fedoraproject.org/en-US/iot/).
 ## Getting help and discussion spaces
 
 - The [#fedora-iot:fedoraproject.org channel on Matrix](https://matrix.to/#/#fedora-iot:fedoraproject.org) or libera.chat/fedora-iot on IRC (irc://irc.libera.chat/fedora-iot) channels. The channels are bridged: joining either one will let you talk to everyone.
-- Ask questions using the [#fedora-iot tag on discussion.fedoraproject.org](https://discussion.fedoraproject.org/tag/fedora-iot).
+- Ask questions using the [#iot tag on discussion.fedoraproject.org](https://discussion.fedoraproject.org/tag/iot).
 
 ## Reporting issues
 
