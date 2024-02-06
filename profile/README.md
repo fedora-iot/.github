@@ -22,6 +22,7 @@ We also have a [RHBZ Tracker bug](https://bugzilla.redhat.com/show_bug.cgi?id=12
 - [How to get involved](https://fedoraproject.org/iot/community/)
 - [rpm-ostree manifests used to build Fedora IoT](https://pagure.io/fedora-iot/ostree)
 - [Source for the documentation](https://github.com/fedora-iot/iot-docs)
+- [Weekly Meetings](https://matrix.to/#/#meeting:fedoraproject.org)
 
 ## Related projects
 
